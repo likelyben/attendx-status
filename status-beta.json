@@ -1,5 +1,5 @@
 {
-  "enabled": True,
+  "enabled": true,
   "min_version_code": 1,
   "message": "",
   "blocklist": [],
