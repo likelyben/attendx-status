@@ -1,17 +1,17 @@
 {
   "enabled": true,
-  "min_version_code": 1,
+  "min_version_code": 2,
   "message": "",
   "blocklist": [],
   "updated_at": "2026-10-08T00:00:00Z",
-  "latest_version_code": 2,
+  "latest_version_code": 3,
   "update_url": "https://your-link",
   "notice": {
-    "id": "n-2026-10-08-1",
+    "id": "n-2026-10-08-2",
     "published_at": "2026-10-08T00:00:00Z",
-    "title": "Heads-up",
+    "title": "Listen!",
     "body": "College portal is slow this week; attendance may lag a day.",
     "audience": "all",
-    "style": "info"
+    "style": "warn"
   }
 }
