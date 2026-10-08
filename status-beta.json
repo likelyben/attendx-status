@@ -12,6 +12,6 @@
     "title": "Listen!",
     "body": "College portal is slow this week; attendance may lag a day.",
     "audience": "all",
-    "style": "warn"
+    "style": "info"
   }
 }
