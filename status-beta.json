@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "min_version_code": 2,
-  "message": "",
+  "message": "Under Maintainance",
   "blocklist": [],
   "updated_at": "2026-10-08T00:00:00Z",
   "latest_version_code": 2,
