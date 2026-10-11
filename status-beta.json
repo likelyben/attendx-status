@@ -7,10 +7,10 @@
   "latest_version_code": 2,
   "update_url": "https://your-link",
    "notice": {
-    "id": "n-2026-10-08-2",
+    "id": "n-2026-10-08-1",
     "published_at": "2026-10-08T12:00:00Z",
     "title": "ATTENTION!",
-    "body": "Thank you for your patience",
+    "body": "College portal is slow currently, attendance may lag.",
     "audience": "all",
     "style": "info"
   }
