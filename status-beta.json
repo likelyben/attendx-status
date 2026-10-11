@@ -1,16 +1,16 @@
 {
-  "enabled": false,
+  "enabled": true,
   "min_version_code": 2,
-  "message": "Under Maintainance",
+  "message": "",
   "blocklist": [],
   "updated_at": "2026-10-08T00:00:00Z",
   "latest_version_code": 2,
   "update_url": "https://your-link",
    "notice": {
-    "id": "n-2026-10-08-1",
+    "id": "n-2026-10-08-2",
     "published_at": "2026-10-08T12:00:00Z",
     "title": "ATTENTION!",
-    "body": "College portal is slow currently; attendance may lag..",
+    "body": "Thank you for your patience",
     "audience": "all",
     "style": "info"
   }
