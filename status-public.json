@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "min_version_code": 1,
+  "latest_version_code": 1,
+  "update_url": "https://github.com/likelyben/attendx-status/releases/download/v1.0/AttendX-v1.0.apk",
+  "message": "",
+  "blocklist": [],
+  "updated_at": "2026-11-19T13:00:00Z",
+  "notice": {
+    "id": "welcome-v1.0",
+    "published_at": "2026-11-19T13:00:00Z",
+    "title": "Welcome to AttendX 1.0",
+    "body": "Built by 2026 Fresher for St. Xavier's College Kolkata students. Fetch attendance in one tap!",
+    "audience": "all",
+    "style": "info"
+  }
+}
