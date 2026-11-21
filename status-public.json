@@ -5,12 +5,12 @@
   "update_url": "https://github.com/likelyben/attendx-status/releases/download/v1.0/AttendX-v1.0.apk",
   "message": "",
   "blocklist": [],
-  "updated_at": "2026-11-21T17:02:46.501607+00:00",
+  "updated_at": "2026-11-21T17:07:45Z",
   "notice": {
-    "id": "welcome-v1.0",
-    "published_at": "2026-11-19T13:00:00Z",
-    "title": "Welcome to AttendX 1.0",
-    "body": "Built by 2026 Fresher for St. Xavier's College Kolkata students. Fetch attendance in one tap!",
+    "id": "test-notice-delay-01",
+    "published_at": "2026-11-21T17:07:45Z",
+    "title": "\ud83e\uddea Live Notice Test",
+    "body": "This is a test notice published at 2026-11-21T17:07:45Z to measure live in-app delivery delay.",
     "audience": "all",
     "style": "info"
   }
